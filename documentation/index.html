@@ -1,0 +1,267 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>AppStar! Documentation - Beantown Design</title>
+	<!-- Framework CSS -->
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans:400,700">
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+		body{background:#eee; padding-top:0; }
+.container{background:#fff; padding:15px 40px; }
+.alt {
+    color: #333;
+    font-family: 'Noto Sans',sans-serif
+    font-weight: normal;
+	font-style:normal;
+	margin-top:10px
+}
+	</style>
+</head>
+
+
+<body>
+<div class="container">
+	
+		<h3 class="center alt">&ldquo;AppStar&rdquo; Documentation by &ldquo;Beantown Themes&rdquo; v1.2</h3>
+		
+		<hr>
+		
+		<h1 class="center">&ldquo;AppStar&rdquo;</h1>
+		
+		<div class="borderTop">
+			<div class="span-7 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>
+				Created: 8/27/2013<br>
+				  </strong><strong>Last Updated: 03/14/2014<br>
+			    By: <a href="http://themeforest.net/user/BeantownDesign">Beantown Themes</a><a href="http://support.beantownthemes.com" target="_blank"><br>
+			  </a><a href="http://twitter.com/beantownthemes">Twitter</a> - <a href="https://www.facebook.com/pages/Beantown-Themes/653197714728193">Facebook</a> - <a href="http://eepurl.com/PNhIr">Email Newsletter</a></strong> <br>
+              </p><p><a href="https://twitter.com/BeantownThemes" class="twitter-follow-button" data-show-count="false">Follow @BeantownThemes</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></p>
+</div><!-- end div .span-6 -->		
+	
+			<div class="span-11 last">
+				<p class="prepend-top append-0">Thank you for purchasing AppStar. If you have any questions that are beyond the scope of this help file, please <a href="http://support.beantownthemes.com" target="_blank">visit our support forum</a>.  Thanks!</p>
+			</div>
+		</div><!-- end div .borderTop -->
+		
+		<hr>
+		
+		<h2 id="toc" class="alt">Table of Contents</h2>
+        <img src="assets/images/appstar.jpg" style="float:right">
+<ol class="alpha">
+<li><a href="#a">Introduction</a></li>
+        	<li><a href="#b">CSS Files</a></li>
+			<li><a href="#c">HTML Structure</a></li>
+			<li><a href="#d">Main Navigation</a></li>
+			<li><a href="#e">Font Awesome Icon Font</a></li>
+			<li><a href="#f">Intro Slider</a></li>
+			<li><a href="#g">Purchase Section</a></li>
+			<li><a href="#h">Features Section</a></li>
+			<li><a href="#i">Screenshots Section</a></li>
+			<li><a href="#j">FAQ Section</a></li>
+			<li><a href="#k">Testimonials Section</a></li>
+			<li><a href="#l">Team Section</a></li>
+			<li><a href="#m">Video Section</a></li>
+			<li><a href="#n">Twitter Feed</a></li>
+			<li><a href="#o">Newsletter Signup</a></li>
+	  <li><a href="#p">Stay Connected Section</a></li>
+			<li><a href="#q">Sources and Credits</a></li>
+		</ol>
+		
+<hr>
+        
+        <!--- section -->
+        <h3 id="a"><strong>A) Introduction</strong> - <a href="#toc">top</a></h3>
+		
+	  	<p>Welcome to AppStar, a super clean landing page great to showoff you app or portfolio. AppStar is fully responsive and super easy to work with so you should have no trouble getting your own landing page online in no time!</p>
+
+		<hr><!--- /section -->
+        
+       
+		
+       
+		
+        <!--- section -->
+  <h3 id="b"><strong>B) CSS Files</strong> - <a href="#toc">top</a></h3>
+		
+		<p>AppStar was built on top of the popular responsive framework <a href="http://www.getskeleton.com/" target="_blank">Skeleton</a>. Skeleton is a responsive framework which uses media queries to adjust the size of columns and rows depending on your screen width. Skeleton also includes basic CSS styling. </p>
+		<p>There are 6 different color schemes which can be chosen by using layout1.css - layout6.css.</p>
+		<p><img src="assets/images/css-change.jpg" width="650" height="75" alt="style"></p>
+		<p>The layout.css file that you choose is where you will want to make your CSS edits, there is a table of contents at the top to help.</p>
+		<p><img src="assets/images/contents.jpg" width="424" height="306"></p>
+		<hr><!--- /section -->
+		
+        <!--- section -->
+  <h3 id="c"><strong>C) HTML Structure</strong> - <a href="#toc">top</a></h3>
+		
+		<p><strong>NOTE: A server running PHP is required for scripts to function properly. Please upload your files to a server running PH and change the extension of the page from &quot;.html&quot; &quot;.php&quot;.</strong></p>
+		<p>The AppStar framework is created with a 16 column layout (so from the left column of the .container to the right column of the .container there are 16 columns). The basic structure to set up a "row" in your layout is to add a div with the class of container (the class .container centers the content within in the middle of the browser window), inside that add a div with the class row (the class .row clears other floats/rows) and then within that add divs with the width you want, the total should add up to 16 columns. These columns stack when smaller browser window sizes are being used.</p>
+		<p><img src="assets/images/columns.jpg" width="762" height="157" alt="columns"></p>
+		
+		
+<p><strong>Example:</strong><br /><img src="assets/images/rows.jpg" width="286" height="186" alt="rows"></p>
+        <p><strong>Example:</strong><br /><img src="assets/images/columns3.jpg" width="320" height="161" alt="columns"></p>
+        <p><strong>Example:</strong><br /><img src="assets/images/columns2.jpg" width="455" height="219" alt="columns"></p>
+      <hr><!--- /section -->
+        
+        
+        
+   	
+        
+         <!--- section -->
+  <h3 id="d"><strong>D) Main Navigation</strong> - <a href="#toc">top</a></h3>
+		
+  <p>Each section of your page needs a unique ID in order to be linked to, example:</p>
+        <img src="assets/images/nav2.jpg">
+        <p>Each list item in the main navigation has 3 things to edit. First set the link to the unique ID on the page, then set which icon you want to use (<a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">http://fortawesome.github.io/Font-Awesome/icons</a>), and finally set the text for the link.</p>
+  <img src="assets/images/nav.jpg">
+  <hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="e"><strong>E) Font Awesome Icon Font</strong> - <a href="#toc">top</a></h3>
+		
+	  	<p>The Font Awesome icon set is built into AppStar. Visit <a href="http://fortawesome.github.io/Font-Awesome/3.2.1/icons/" target="_blank">http://fortawesome.github.io/Font-Awesome/3.2.1/icons/</a> to see all available icons and to easily get the embed code for each. These icons are used in the template for services, navigation icons, social, icons, etc. The icons are a font, so you can use CSS to style the icons.</p>
+
+		<hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="f"><strong>F) Intro Slider</strong> - <a href="#toc">top</a></h3>
+		
+	  	<p>Visit the sources and credits section at the bottom of this page for links to the free PSD files used for the iPhone and Android devices as seen in the demo. </p>
+	  	<p>The main slider is a set of images within list items:</p>
+        <p><img src="assets/images/slide1.jpg" width="412" height="179"></p>
+  <p>You can choose slide or fade transition for the slides by editing this line of code in the screen.js file (other options such as timing are adjustable by opening the assets/flexslider/jquery.flexslider.js file).</p>
+        <p><img src="assets/images/slide2.jpg" width="196" height="52"></p>
+        
+  <p>Note: If you choose to use the fade effect add the extra CSS class "fade-slider" to the flexslider div as shown below (this adds extra required spacing above the div).
+        <p><img src="assets/images/flex-fade.png" width="337" height="107"></p>
+
+<hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="g"><strong>G) Purchase Section</strong> - <a href="#toc">top</a></h3>
+		
+  <p>Enter the link to your item for sale  in the purchase section.</p>
+     <p>   <img src="assets/images/purchase.jpg" width="346" height="172"></p>
+  <hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="h"><strong>H) Features Section</strong> - <a href="#toc">top</a></h3>
+		
+  <p>See the image below, this is where you choose the icon for each feature:</p>
+        <p><img src="assets/images/feature.jpg" width="473" height="111"></p>
+
+		<hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="i"><strong>I) Screenshots Section</strong> - <a href="#toc">top</a></h3>
+		
+	  	<p>Set a thumbnail image, enlarged image, and caption text.</p>
+  <p>  <img src="assets/images/pop.jpg" width="746" height="53"></p>
+
+		<hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="j"><strong>J) FAQ</strong> - <a href="#toc">top</a></h3>
+		
+	  	<p>Each qustion in the FAQ section containes a header (the question) and a content section (the answer).</p>
+  <p>  <img src="assets/images/accordion.jpg"></p>
+
+		<hr><!--- /section -->
+        
+        
+      
+<!--- section -->
+  <h3 id="k"><strong>K) Testimonials Section</strong> - <a href="#toc">top</a></h3>
+		
+  <p>The testimonials section also uses the Flex Slider. You can set the quotes to fade or slide in the scripts.js file.</p>
+		<p><img src="assets/images/test.jpg" width="671" height="236"></p>
+		<hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="l"><strong>L) Team Section</strong> - <a href="#toc">top</a></h3>
+		
+  <p>Enter team members images, text, and social links with font awesome icons.</p>
+<p><img src="assets/images/team.jpg" width="449" height="139"></p>
+		<hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="m"><strong>M) Video Section</strong> - <a href="#toc">top</a></h3>
+		
+	  	<p>AppStar uses the FitVide script for responsive videos. All you need to do is to paste the embed code that youtube or vimeo gives you, the script does the rest.</p>
+	  	<p><img src="assets/images/vid.jpg" width="638" height="56"></p>
+
+		<hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="n"><strong>N) Twitter Feed</strong> - <a href="#toc">top</a></h3>
+		
+  <p>To setup your twitter feed you will need to create an application at Twitter. Please visit: <a href="https://dev.twitter.com/apps">https://dev.twitter.com/apps</a>.
+Copy your consumer key, consumer secret, access token and access token secret and paste this into the grabtweets.php file located in the includes folder. </p>
+  <img src="assets/images/twitter.jpg" width="465" height="80">
+  <p>Then open scripts.js in the js folder and enter your user name and the number of tweets you want to show. Please note: this requires a server running PHP, you will not be able to see your tweets on your local machine.</p>  <img src="assets/images/twitter2.jpg">
+
+		<hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="o"><strong>O) Newsletter Signup</strong> - <a href="#toc">top</a></h3>
+		
+	  	<p>To set the email address that the newsletter signup will be mailed to open assets &gt; contact-form &gt; process.php</p>
+	  	<p><img src="assets/images/email.jpg" width="261" height="141"></p>
+
+		<hr><!--- /section -->
+        
+        <!--- section -->
+  <h3 id="p"><strong>P) Stay Connected Section</strong> - <a href="#toc">top</a></h3>
+		
+	  	<p>Any of the Font Awesome icons can be used in the stay connected section. You can get the code for the icons on this page: <a href="http://fortawesome.github.io/Font-Awesome/icons/" target="_blank">http://fortawesome.github.io/Font-Awesome/icons/</a>. Change the name of the icon (shown below) and add your link.
+        <img src="assets/images/fa.jpg" width="616" height="111"></p>
+
+		<hr><!--- /section -->
+        
+        
+		
+<h3 id="q"><strong>Q) Sources and Credits</strong> - <a href="#toc">top</a></h3>
+		
+		<p>I've used the following images, scripts or other files as listed.
+		
+		<ul>
+            <li>fonts from <a href="https://developers.google.com/webfonts/" target="_blank">Google Font API</a> (Apache license)</li>
+            <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome Icons</a> (SIL OFL 1.1 license)</li>
+            <li><a href="http://dimsemenov.com/plugins/magnific-popup/" target="_blank">Magnific</a> (MIT license)</li>
+            <li><a href="http://www.berriart.com/sidr/" target="_blank">Sidr</a> (MIT license)</li>
+            <li><a href="http://fitvidsjs.com/" target="_blank">fitvids</a> (WTFPL license)</li>
+            
+            <li><a href="https://github.com/woothemes/flexslider" target="_blank">Flex Slider 2</a> (GPLv2 license)</li>
+            <li>Demo Graphic Respources:
+            
+            <ul>
+            	
+                <li>Demo Images From <a href="http://unsplash.com">http://unsplash.com</a></li>
+                <li>Demo Images From <a href="http://photodune.net/">http://photodune.net</a></li>
+            	<li><a href="http://www.pixeden.com/psd-mock-up-templates/iphone-5-psd-flat-design-mockup#" target="_blank">Flat iPhone PSD</a></li>
+                <li><a href="https://creativemarket.com/brigat/7209-50-Blurred-cities">Blurred Cities</a></li>
+                <li><a href="http://photodune.net/item/online-portfolio-app-blur/5136666" target="_blank">App Screenshots/Mockups</a></li>
+                <li><a href="http://placeit.net/" target="_blank">Create Your Own Product Screenshots</a></li>
+              <li><a href="http://bit.ly/1gCcYfB" target="_blank">Android PSD/Graphics</a></li>
+            </ul>
+            
+            </li>
+            
+  </ul>
+		
+<hr>
+		
+		<p>Thank you for purchasing AppStar! Follow Beantown Themes on <a href="http://twitter.com/beantownthemes" target="_blank">Twitter</a>, <a href="https://www.facebook.com/pages/Beantown-Themes/653197714728193" target="_blank">Facebook</a> and <a href="http://themeforest.net/user/beantowndesign/follow" target="_blank">ThemeForest</a> (for updates and new items). <br>
+  Sign up for our <a href="http://eepurl.com/PNhIr">email newsletter</a> to recieve new product updates and freebies by email.</p>
+        <p><a href="http://beantownthemes.com"><img src="assets/images/beantown-themes.png" width="200" height="39" alt="Beantown Themes"></a></p>
+<hr class="space">
+	</div><!-- end div .container -->
+</body>
+</html>
