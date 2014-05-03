@@ -72,7 +72,9 @@
 		<section class="slider">
         	<div class="flexslider">
           		<ul class="slides">
-            		<li><img src="images/slider/3dflat/1.png"></li>
+            		<li><img src="images/slider/1.png"></li>
+			<li><img src="images/slider/2.png"></li>
+
 
           		</ul>
         	</div>
