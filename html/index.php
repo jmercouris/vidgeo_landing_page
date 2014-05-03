@@ -133,7 +133,7 @@
                 
                 <div class="one-third column services-column">
                 	<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2a">
-						<i class="icon-effect icon-share"></i>
+						<i class="icon-effect icon-group"></i>
                      </div>
                      		<h4>Share<span> it!</span></h4>
             				<p> Share with your friends & family!
@@ -147,12 +147,6 @@
             				<p> Watch videos from around the world. Plan your next vacation, date, and learn about the world around you.
        			</div>
        
-            
-            
-
-       
-       		
-
 		</div> 
 	</div><!-- /features section -->
      
@@ -209,10 +203,7 @@
                 
 		</div>
 	</div><!-- /screenshots section -->
-    
-    
-    
-        
+	
 	<!-- connected section -->
     <a id="connected-marker" class="marker"></a>
  	<div class="connected-section">
@@ -233,10 +224,6 @@
       
 		</div>
 	</div><!-- /connected section -->
-
-
-
-
 	<!-- Scripts
   ================================================== -->
 	<script src="js/jquery.sidr.min.js"></script>
