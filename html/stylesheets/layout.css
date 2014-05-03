@@ -339,8 +339,8 @@ h1.intro-title span { font-weight: 400 }
 .purchase-section {
     width: 100%;
     background: #ffcb52;
-	padding-top:40px;
-	padding-bottom:20px
+    padding-top:40px;
+	
 }
 
 .homepage-buttons .button .fa-icon {
@@ -365,8 +365,8 @@ h1.intro-title span { font-weight: 400 }
 ================================================== */
 
 .features-section { 
-	background: #E9F0F4; 
-	padding-bottom:20px !important 
+	
+	
 }
 .services-column {
     text-align: center;

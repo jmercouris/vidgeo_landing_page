@@ -74,7 +74,7 @@
           		<ul class="slides">
             		<li><img src="images/slider/1.png"></li>
 			<li><img src="images/slider/2.png"></li>
-
+			<li><img src="images/slider/3.png"></li>
 
           		</ul>
         	</div>
@@ -106,6 +106,55 @@
 		</div>
 	</div><!-- /purchase section -->
     
+ 
+ 
+   
+ 
+
+	<!-- features section -->
+	<a id="features-marker" class="marker"></a>
+	<div class="features-section">
+		<div class="container">
+            <div class="row sixteen columns title-row">
+				<h3 class="title">
+                	<i class="title-icon icon-angle-right"></i> Features Galore <i class="title-icon icon-angle-left"></i>
+                </h3>
+			</div>
+      
+			<div class="row">
+        
+       			<div class="one-third column services-column">
+                	<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2a">
+						<i class="icon-effect icon-film"></i>
+                     </div>
+                     		<h4>Record<span> it!</span></h4>
+            				<p> Record your favorite memories, exciting videos, and capture your moments to a map.
+       			</div>
+                
+                <div class="one-third column services-column">
+                	<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2a">
+						<i class="icon-effect icon-share"></i>
+                     </div>
+                     		<h4>Share<span> it!</span></h4>
+            				<p> Share with your friends & family!
+       			</div>
+                
+                <div class="one-third column services-column">
+                	<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2a">
+						<i class="icon-effect icon-globe"></i>
+                     </div>
+                     		<h4><span>Discover!</span></h4>
+            				<p> Watch videos from around the world. Plan your next vacation, date, and learn about the world around you.
+       			</div>
+       
+            
+            
+
+       
+       		
+
+		</div> 
+	</div><!-- /features section -->
      
  
 	<!-- screenshots section -->
