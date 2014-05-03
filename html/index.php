@@ -30,7 +30,7 @@
   ================================================== -->
 	<link rel="stylesheet" href="stylesheets/base.css">
 	<link rel="stylesheet" href="stylesheets/skeleton.css">
-    <link class="changeme" rel="stylesheet" href="stylesheets/layout4.css"><!-- change the number to change color 1 - 6 -->
+    <link class="changeme" rel="stylesheet" href="stylesheets/layout.css"><!-- change the number to change color 1 - 6 -->
     
     <link rel="stylesheet" href="assets/flexslider/flexslider.css">
     <link rel="stylesheet" href="stylesheets/magnific-popup.css"> 
@@ -54,29 +54,13 @@
 
 	<!-- header section-->
 	<div class="header-container">
-
-		<div id="navigation">
-    		<nav class="nav">
-        		<ul>
-            		<li><a href="#slider-marker"><i class="icon-star-empty side-icon"></i> Vidgeo</a></li>
-            		<li><a href="#purchase-marker"><i class="icon-mobile-phone side-icon mr5"></i> Record it.</a></li>
-            		<li><a href="#features-marker"><i class="icon-gears side-icon"></i> Share it.</a></li>
-            		<li><a href="#screenshots-marker"><i class="icon-eye-open side-icon"></i> Explore.</a></li>
-                    <li><a href="#faq-marker"><i class="icon-question-sign side-icon"></i> Capabilities</a></li>
-            		<li><a href="#testimonials-marker"><i class="icon-comments side-icon"></i> Testimonials</a></li>
-            		<li><a href="#team-marker"><i class="icon-group side-icon"></i> Our Team</a></li>
-            		<li><a href="#video-marker"><i class="icon-film side-icon"></i> Video Preview</a></li>
-            		<li><a href="#connected-marker"><i class="icon-heart-empty side-icon"></i> Stay Connected</a></li>
-        		</ul>
-    		</nav>
-		</div>
-    
-  	<h1 class="intro-title"></h1>
-  
-	<div id="mobile-header"> 
-		<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2b">
-			<a href="#sidr-main" id="responsive-menu-button"><i class="icon-effect icon-list"></i></a>
-         </div>
+		<table width="100%">
+			<tr>
+				<td>
+					<img src="images/logo/vidgeo-icon.png"/>
+				</td>
+			</tr>
+		</table>  
   	</div>
             
 	</div><!-- /header section -->
@@ -89,9 +73,6 @@
         	<div class="flexslider">
           		<ul class="slides">
             		<li><img src="images/slider/3dflat/1.png"></li>
-			<li><img src="images/slider/3dflat/2.png"></li>
-			<li><img src="images/slider/3dflat/3.png"></li>
-			<li><img src="images/slider/3dflat/4.png"></li>
 
           		</ul>
         	</div>

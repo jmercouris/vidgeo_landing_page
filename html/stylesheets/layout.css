@@ -55,7 +55,7 @@ a:hover {
     text-decoration: none;
 }
 img { width: 100% }
-.container { padding-bottom: 20px }
+.container { padding-bottom: 20px; border-bottom: 2px solid #fff;}
 a.marker { display:block; 
   display: block;
   height: 105px; 
@@ -268,8 +268,15 @@ h5 {
 	right:0;
     z-index: 100;
     width: 100%;
-    border-bottom: 2px solid #c7a442;
+    background-color: #ffcb52;
+    border-bottom: 2px solid #fff;
 }
+
+.header-container img {
+    width: auto;
+}
+
+
 h1.intro-title {
     text-align: center;
     font-size: 50px;
@@ -296,7 +303,8 @@ h1.intro-title span { font-weight: 400 }
     left: 20px;
 }
 .flexslider.fade-slider {
-	margin-top:200px
+	margin-top:200px;
+
 }
 
 
