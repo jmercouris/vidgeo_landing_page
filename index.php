@@ -50,7 +50,7 @@
 </head>
 <body>
 
-	<!-- header section-->
+	<!-- header section
 	<div id="header" class="header-container">
 		<table width="100%">
 			<tr>
@@ -70,7 +70,18 @@
 	</td>
   	</div>
             
-	</div><!-- /header section -->
+	</div> /header section -->
+	
+	<div id="header" class="header-container">
+		<img src="images/logo/vidgeo-icon.png"/>
+	</div>
+	
+	
+	<div style="width: 100%; overflow: hidden;">
+	    <div style="width: 600px; float: left;"> Left </div>
+	    <div style="margin-left: 620px;"> Right </div>
+	</div>
+	
     
 			
 	<!-- slider section-->

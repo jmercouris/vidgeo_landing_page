@@ -339,12 +339,8 @@ h1.intro-title span { font-weight: 400 }
 
 /* #Slider Section
 ================================================== */
-
-
-
-
 .slider-container {
-    margin-top: 120px;
+    margin-top: 100px;
     background: url(../images/backgrounds/01.jpg) no-repeat center center fixed;
 	
    	-webkit-background-size: 100%; 
@@ -363,14 +359,11 @@ h1.intro-title span { font-weight: 400 }
 
 /* #Purchase Section
 ================================================== */
-
 .purchase-section {
     width: 100%;
     background: #ffcb52;
-    padding-top:40px;
-	
+    padding-top:40px;	
 }
-
 .homepage-buttons .button .fa-icon {
     font-size: 50px;
     float: left;
@@ -387,13 +380,9 @@ h1.intro-title span { font-weight: 400 }
     font-style: normal;
 	text-transform:uppercase
 }
-
-
 /* #Features Section
 ================================================== */
-
 .features-section { 
-	
 	
 }
 .services-column {
@@ -465,7 +454,6 @@ h1.intro-title span { font-weight: 400 }
 
 /* #Team Section
 ================================================== */
-
 .team-section {
     color: #333;
     text-align: center;
@@ -494,11 +482,8 @@ h1.intro-title span { font-weight: 400 }
 }
 
 .team-section h5 { font-size:20px; padding:15px 0 10px 0 }
-
-
 /* #Video Section
 ================================================== */
-
 .video-section {
     background: url(../images/backgrounds/01.jpg);
    background-attachment:fixed;
@@ -516,8 +501,6 @@ h1.intro-title span { font-weight: 400 }
     color: #fff;
 }
 .touch .video-section { background-attachment:scroll }
-
-
 /* #Newletter Signup Section
 ================================================== */
 
@@ -543,21 +526,15 @@ h1.intro-title span { font-weight: 400 }
     color: #ffcb52;
     line-height: 130px;
 }
-
-
 /* #Stay Connected Section
 ================================================== */
-
 .connected-section {
     width: 100%;
     background: #333;
     min-height: 150px;
 }
-
-
 /* #Twitter Feed Section
 ================================================== */
-
 .twitter-section {
     padding-top: 80px;
     min-height: 300px;
@@ -580,11 +557,8 @@ h1.intro-title span { font-weight: 400 }
     color: #666;
 	display:block
 }
-
-
 /* #Footer Credits Section
 ================================================== */
-
 .footer-bar {
     width: 100%;
     background: #181818;
@@ -594,11 +568,8 @@ h1.intro-title span { font-weight: 400 }
     padding: 15px 0;
     font-size: 11px;
 }
-
-
 /* #Icon Effects
 ================================================== */
-
 .icon-effect a {
     display: block;
     width: 100%;
@@ -680,7 +651,6 @@ h1.intro-title span { font-weight: 400 }
     transform: scale(1);
     opacity: 1;
 }
-
 /* Effect 2 */
 .icon-effect-effect-2 .icon-effect {
     -webkit-transition: box-shadow 0.2s;
@@ -696,7 +666,6 @@ h1.intro-title span { font-weight: 400 }
     -moz-transition: -moz-transform 0.2s, opacity 0.2s;
     transition: transform 0.2s, opacity 0.2s;
 }
-
 /* Effect 2a for services */
 .services-column:hover .icon-effect-effect-2a .icon-effect:after {
     -webkit-transform: scale(0.85);
@@ -721,11 +690,8 @@ h1.intro-title span { font-weight: 400 }
     transform: scale(0.85);
 }
 .no-touch .icon-effect-effect-2b .icon-effect:hover { color: #fff }
-
-
 /* #FAQ Accordion
 ================================================== */
-
 .accordion-header {
 	font-size: 16px;
 	background: #1ABC9C;
@@ -735,30 +701,24 @@ h1.intro-title span { font-weight: 400 }
 	cursor: pointer;
 	color: #fff;
 }
-
 .active-header {
 	background: #444;
 	background-repeat: no-repeat;
 	background-position: right 50%; color:#fff
 }
-
 .active-header:hover {
 	background: #444;
 }
-
 .inactive-header {
 	background: #1ABC9C;
 }
-
 .spacer {
 	height:5px;
 	width:100%
 }
-
 .inactive-header:hover {
 	background:#444;
 }
-
 .accordion-content {
 	display: none;
 	padding: 20px;
@@ -769,7 +729,6 @@ h1.intro-title span { font-weight: 400 }
 	-webkit-border-radius: 0 0 3px 3px;
 	border-radius: 0 0 3px 3px;
 }
-
 .accordion-content, .open-content {
 	max-width:100% !important;
 }
