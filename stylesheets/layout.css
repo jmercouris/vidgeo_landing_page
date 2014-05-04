@@ -308,7 +308,8 @@ h5 {
 
 .headerlinks
 {
-	margin:4px;
+	margin-top:4px;
+	margin-right:4px;
 	float:right;
 }
 
@@ -760,8 +761,16 @@ h1.intro-title span { font-weight: 400 }
 }
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) { 
-    
 }
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 572px) { 
+	.slider-container
+	{
+
+		margin-top:150px;
+	}
+}
+
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) { 
 	.purchase-section div.homepage-buttons { padding-bottom:10px }

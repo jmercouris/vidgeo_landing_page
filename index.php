@@ -52,13 +52,13 @@
 	<!-- header section -->	
 	<div id="header" class="header-container">
 	    <div class="headerlinks"> 
-			<a href="linky"> About </a> 
+			<a href="linky">About</a> 
 			•
-			<a href="linky"> Get it! </a> 
+			<a href="linky">Get it!</a> 
 			•
-			<a href="linky"> Screenshots </a> 
+			<a href="linky">Screens</a> 
 			•
-			<a href="linky"> Contact </a> 
+			<a href="linky">Contact</a> 
 		</div>		
 		<img src="images/logo/vidgeo-icon.png"/>
 	</div>
