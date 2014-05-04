@@ -4,28 +4,21 @@
 <!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-
-	<!-- Basic Page Needs
-  ================================================== -->
 	<meta charset="utf-8">
 	<title>Vidgeo</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
-
 	<!-- Mobile Specific Metas
   ================================================== -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    
 	<!-- Modernizr
   ================================================== -->
   	<script src="js/modernizr.custom.js"></script>
-    
 	<!-- Fonts
   ================================================== -->
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans:400,700">
     <link rel="stylesheet"  href="http://fonts.googleapis.com/css?family=Cabin">
     <link id="f-sheet" rel="stylesheet" href="assets/fonts/font-awesome/css/font-awesome.min.css">
-
 	<!-- CSS
   ================================================== -->
 	<link rel="stylesheet" href="stylesheets/base.css">
@@ -37,16 +30,13 @@
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
-
 	<!-- Favicons
   ================================================== -->
 	<link rel="shortcut icon" href="images/favicon.ico">
-    
     <!-- Scripts, other js in footer
   ================================================== -->
 	<script src="js/jquery-1.8.2.min.js"></script>
 	<script src="js/scripts.js"></script>
-			
 </head>
 <body>
 	<!-- header section -->	
@@ -134,7 +124,6 @@
                      		<h4><span>Discover!</span></h4>
             				<p> Watch videos from around the world. Plan your next vacation, date, and learn about the world around you.
        			</div>
-       
 		</div> 
 	</div>
 	<!-- /features section -->
