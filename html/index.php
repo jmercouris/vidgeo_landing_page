@@ -117,7 +117,7 @@
 		<div class="container">
             <div class="row sixteen columns title-row">
 				<h3 class="title">
-                	<i class="title-icon icon-angle-right"></i> Features Galore <i class="title-icon icon-angle-left"></i>
+                	<i class="title-icon icon-angle-right"></i> How it works: <i class="title-icon icon-angle-left"></i>
                 </h3>
 			</div>
       

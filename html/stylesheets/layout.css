@@ -55,7 +55,17 @@ a:hover {
     text-decoration: none;
 }
 img { width: 100% }
+
 .container { padding-bottom: 20px; border-bottom: 2px solid #fff;}
+
+.container.white {
+	background-color:#fff;
+}
+
+.container.yellow {
+	background-color:#ffcb52;
+}
+
 a.marker { display:block; 
   display: block;
   height: 105px; 
@@ -274,6 +284,7 @@ h5 {
 
 .header-container img {
     width: auto;
+	height:auto;
 }
 
 
