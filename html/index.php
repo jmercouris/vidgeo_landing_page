@@ -30,8 +30,7 @@
   ================================================== -->
 	<link rel="stylesheet" href="stylesheets/base.css">
 	<link rel="stylesheet" href="stylesheets/skeleton.css">
-    <link class="changeme" rel="stylesheet" href="stylesheets/layout.css"><!-- change the number to change color 1 - 6 -->
-    
+    <link class="changeme" rel="stylesheet" href="stylesheets/layout.css">
     <link rel="stylesheet" href="assets/flexslider/flexslider.css">
     <link rel="stylesheet" href="stylesheets/magnific-popup.css"> 
 
@@ -105,11 +104,6 @@
 		</div>
 	</div><!-- /purchase section -->
     
- 
- 
-   
- 
-
 	<!-- features section -->
 	<a id="features-marker" class="marker"></a>
 	<div class="features-section">
@@ -119,9 +113,7 @@
                 	<i class="title-icon icon-angle-right"></i> How it works: <i class="title-icon icon-angle-left"></i>
                 </h3>
 			</div>
-      
 			<div class="row">
-        
        			<div class="one-third column services-column">
                 	<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2a">
 						<i class="icon-effect icon-film"></i>
@@ -129,7 +121,6 @@
                      		<h4>Record<span> it!</span></h4>
             				<p> Record your favorite memories, exciting videos, and capture your moments to a map.
        			</div>
-                
                 <div class="one-third column services-column">
                 	<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2a">
 						<i class="icon-effect icon-group"></i>
@@ -137,7 +128,6 @@
                      		<h4>Share<span> it!</span></h4>
             				<p> Share with your friends & family!
        			</div>
-                
                 <div class="one-third column services-column">
                 	<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2a">
 						<i class="icon-effect icon-globe"></i>
