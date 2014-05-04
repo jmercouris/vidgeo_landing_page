@@ -207,6 +207,7 @@
 						//-->
 						</script><noscript>Sorry, you need Javascript on to email me.</noscript>
 					</i>
+					<i class="icon-effect icon-twitter"><a href="http://twitter.com/vidgeoapp"></a></i>
 				</div>
             </div>
 		</div>
