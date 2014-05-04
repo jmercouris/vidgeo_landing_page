@@ -49,41 +49,14 @@
 			
 </head>
 <body>
-
-	<!-- header section
+	<!-- header section -->	
 	<div id="header" class="header-container">
-		<table width="100%">
-			<tr>
-				<td>
-					<img src="images/logo/vidgeo-icon.png"/>
-				</td>
-				<td>
-				<table align="right">
-					<tr>
-						<td>
-							heyo!
-						</td>
-					</tr>
-				</table>
-			</tr>
-		</table>  
-	</td>
-  	</div>
-            
-	</div> /header section -->
-	
-	<div id="header" class="header-container">
+	    <div style="float: left;"> Left </div>
+	    <div style="float: right;"> Right </div>
+		
 		<img src="images/logo/vidgeo-icon.png"/>
 	</div>
-	
-	
-	<div style="width: 100%; overflow: hidden;">
-	    <div style="width: 600px; float: left;"> Left </div>
-	    <div style="margin-left: 620px;"> Right </div>
-	</div>
-	
-    
-			
+	<!-- /header section -->		
 	<!-- slider section-->
 	<a id="slider-marker"></a>
 	<div class="slider-container">
@@ -97,8 +70,8 @@
           		</ul>
         	</div>
       	</section>
-	</div><!-- /slider section-->
-
+	</div>
+	<!-- /slider section-->
 	<!-- purchase section -->   
 	<a id="purchase-marker" class="marker"></a> 
 	<div class="purchase-section">
@@ -121,8 +94,8 @@
 			</div>
 
 		</div>
-	</div><!-- /purchase section -->
-    
+	</div>
+	<!-- /purchase section -->
 	<!-- features section -->
 	<a id="features-marker" class="marker"></a>
 	<div class="features-section">
@@ -156,8 +129,8 @@
        			</div>
        
 		</div> 
-	</div><!-- /features section -->
-     
+	</div>
+	<!-- /features section -->
 	<!-- screenshots section -->
 	<a id="screenshots-marker" class="marker"></a>
     <div class="screenshots-section">
@@ -196,8 +169,8 @@
                 </div>
             </div>
 		</div>
-	</div><!-- /screenshots section -->
-	
+	</div>
+	<!-- /screenshots section -->
 	<!-- connected section -->
     <a id="connected-marker" class="marker"></a>
  	<div class="connected-section">
@@ -214,35 +187,33 @@
       				<i class="icon-effect icon-facebook"><a href="http://facebook.com/vidgeoapp"></a></i>
       				<i class="icon-effect icon-envelope">
 					
-					<script type="text/javascript" language="javascript">
-					<!--
-					// Email obfuscator script 2.1 by Tim Williams, University of Arizona
-					// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
-					// This code is freeware provided these four comment lines remain intact
-					// A wizard to generate this code is at http://www.jottings.com/obfuscator/
-					{ coded = "DkE4TZNWW@42NkO.PZ2"
-					  key = "Fc0XB12kT7jqEYUobuDLPw9VJRaphyrCGnZg6zlH3tQ5SNWxKmieIM4d8OsAfv"
-					  shift=coded.length
-					  link=""
-					  for (i=0; i<coded.length; i++) {
-					    if (key.indexOf(coded.charAt(i))==-1) {
-					      ltr = coded.charAt(i)
-					      link += (ltr)
-					    }
-					    else {     
-					      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-					      link += (key.charAt(ltr))
-					    }
-					  }
-					document.write("<a href='mailto:"+link+"'>email us</a>")
-					}
-					//-->
-					</script><noscript>Sorry, you need Javascript on to email me.</noscript>
+						<script type="text/javascript" language="javascript">
+						<!--
+						// A wizard to generate this code is at http://www.jottings.com/obfuscator/
+						{ coded = "gss.OfxKLE@Kkgfq.7Ek"
+						  key = "kyJE4AuBXFglY1ILdWvrtnDpP3i6j2Kq8ScRxbOHGTmswofM5ZzUaN7QheC90V"
+						  shift=coded.length
+						  link=""
+						  for (i=0; i<coded.length; i++) {
+						    if (key.indexOf(coded.charAt(i))==-1) {
+						      ltr = coded.charAt(i)
+						      link += (ltr)
+						    }
+						    else {     
+						      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+						      link += (key.charAt(ltr))
+						    }
+						  }
+						document.write("<a href='mailto:"+link+"'>Email Us</a>")
+						}
+						//-->
+						</script><noscript>Sorry, you need Javascript on to email me.</noscript>
 					</i>
 				</div>
             </div>
 		</div>
-	</div><!-- /connected section -->
+	</div>
+	<!-- /connected section -->
 	<!-- Scripts
   ================================================== -->
 	<script src="js/jquery.sidr.min.js"></script>
