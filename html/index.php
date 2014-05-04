@@ -47,13 +47,12 @@
   ================================================== -->
 	<script src="js/jquery-1.8.2.min.js"></script>
 	<script src="js/scripts.js"></script>
-
-		
+			
 </head>
 <body>
 
 	<!-- header section-->
-	<div class="header-container">
+	<div id="header" class="header-container">
 		<table width="100%">
 			<tr>
 				<td>
@@ -231,6 +230,9 @@
     <script src="assets/flexslider/jquery.flexslider.js"></script>
 	<script src="js/jquery.magnific-popup.min.js"></script> 
     <script src="js/screen.js"></script>
-
+	<script src="js/headroom.min.js"></script>
+	<script src="js/user.js"></script>
+	
+	
 </body>
 </html>
