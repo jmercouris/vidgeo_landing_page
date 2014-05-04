@@ -51,9 +51,15 @@
 <body>
 	<!-- header section -->	
 	<div id="header" class="header-container">
-	    <div style="float: left;"> Left </div>
-	    <div style="float: right;"> Right </div>
-		
+	    <div class="headerlinks"> 
+			<a href="linky"> About </a> 
+			•
+			<a href="linky"> Get it! </a> 
+			•
+			<a href="linky"> Screenshots </a> 
+			•
+			<a href="linky"> Contact </a> 
+		</div>		
 		<img src="images/logo/vidgeo-icon.png"/>
 	</div>
 	<!-- /header section -->		
@@ -64,9 +70,8 @@
         	<div class="flexslider">
           		<ul class="slides">
             		<li><img src="images/slider/1.png"></li>
-			<li><img src="images/slider/2.png"></li>
-			<li><img src="images/slider/3.png"></li>
-
+					<li><img src="images/slider/2.png"></li>
+					<li><img src="images/slider/3.png"></li>
           		</ul>
         	</div>
       	</section>

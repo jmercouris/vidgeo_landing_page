@@ -294,16 +294,30 @@ h5 {
 	width:auto;
 }
 
+.headroom--not-top 
+{
+	font-size:.75em;
+}
+
+
 .headroom--top img
 {
     width: auto;
 	height:115px;	
 }
 
-.headroom {position: fixed;top: 0;left: 0;right: 0;transition: all .2s ease-in-out;}
-.headroom--unpinned {top: -100px;}
-.headroom--pinned {top: 0;}
-index.js
+.headerlinks
+{
+	margin:4px;
+	float:right;
+}
+
+.headerlinks a
+{
+	color:#fff;
+	font-size:1.5em;
+}
+
 
 h1.intro-title {
     text-align: center;
