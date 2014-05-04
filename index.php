@@ -52,13 +52,13 @@
 	<!-- header section -->	
 	<div id="header" class="header-container">
 	    <div class="headerlinks"> 
-			<a href="linky">About</a> 
+			<a href="#about">About</a> 
 			•
-			<a href="linky">Get it!</a> 
+			<a href="#getit">Get it!</a> 
 			•
-			<a href="linky">Screens</a> 
+			<a href="#screens">Screens</a> 
 			•
-			<a href="linky">Contact</a> 
+			<a href="#contact">Contact</a> 
 		</div>		
 		<img src="images/logo/vidgeo-icon.png"/>
 	</div>
@@ -77,7 +77,8 @@
       	</section>
 	</div>
 	<!-- /slider section-->
-	<!-- purchase section -->   
+	<!-- purchase section -->  
+	<A NAME="getit"> 
 	<a id="purchase-marker" class="marker"></a> 
 	<div class="purchase-section">
 		<div class="container">
@@ -102,6 +103,7 @@
 	</div>
 	<!-- /purchase section -->
 	<!-- features section -->
+	<A NAME="about"> 
 	<a id="features-marker" class="marker"></a>
 	<div class="features-section">
 		<div class="container">
@@ -137,6 +139,7 @@
 	</div>
 	<!-- /features section -->
 	<!-- screenshots section -->
+	<A NAME="screens"> 
 	<a id="screenshots-marker" class="marker"></a>
     <div class="screenshots-section">
 		<div class="container">
@@ -177,6 +180,7 @@
 	</div>
 	<!-- /screenshots section -->
 	<!-- connected section -->
+	<A NAME="contact"> 
     <a id="connected-marker" class="marker"></a>
  	<div class="connected-section">
   		<div class="container">
