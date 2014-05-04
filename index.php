@@ -57,8 +57,17 @@
 				<td>
 					<img src="images/logo/vidgeo-icon.png"/>
 				</td>
+				<td>
+				<table align="right">
+					<tr>
+						<td>
+							heyo!
+						</td>
+					</tr>
+				</table>
 			</tr>
 		</table>  
+	</td>
   	</div>
             
 	</div><!-- /header section -->
