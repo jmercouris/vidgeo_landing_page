@@ -79,7 +79,6 @@
       	</section>
 	</div><!-- /slider section-->
 
-
 	<!-- purchase section -->   
 	<a id="purchase-marker" class="marker"></a> 
 	<div class="purchase-section">
@@ -139,7 +138,6 @@
 		</div> 
 	</div><!-- /features section -->
      
- 
 	<!-- screenshots section -->
 	<a id="screenshots-marker" class="marker"></a>
     <div class="screenshots-section">
@@ -149,51 +147,36 @@
                 	<i class="title-icon icon-angle-right"></i> Screenshots <i class="title-icon icon-angle-left"></i>
                 </h3>
    		  </div>
-      
             <div class="row screenshots-row">
-				
             	<div class="four columns">
                 	<a href="images/screenshots/1.jpg" title="View Videos on a Map!" alt="Caption"><img src="images/screenshots/1.jpg"></a>
                 </div>
-                
                 <div class="four columns">
                 	<a href="images/screenshots/2.jpg" title="Check out the latest Videos" alt="Caption"><img src="images/screenshots/2.jpg"></a>
                 </div>
-                
                 <div class="four columns">
                 	<a href="images/screenshots/3.jpg" title="Share with Friends & Family" alt="Caption"><img src="images/screenshots/3.jpg"></a>
                 </div>
-                
                 <div class="four columns">
                 	<a href="images/screenshots/4.jpg" title="Watch High Quality Videos" alt="Caption"><img src="images/screenshots/4.jpg"></a>
                 </div>
-			
             </div>
-                
             <div class="row screenshots-row">
-				
             	<div class="four columns">
                 	<a href="images/screenshots/5.jpg" title="View Video Stats & Follow your Favorites" alt="Caption"><img src="images/screenshots/5.jpg"></a>
                 </div>
-                
                 <div class="four columns">
                 	<a href="images/screenshots/6.jpg" title="View Videos on a Map!" alt="Caption"><img src="images/screenshots/6.jpg"></a>
                 </div>
-                
                 <div class="four columns">
                 	<a href="images/screenshots/7.jpg" title="Watch High Quality Videos" alt="Caption"><img src="images/screenshots/7.jpg"></a>
                 </div>
-                
                 <div class="four columns">
                 	<a href="images/screenshots/8.jpg" title="Browse your Favorite Videos" alt="Caption"><img src="images/screenshots/8.jpg"></a>
                 </div>
-			
             </div>
-                
 		</div>
 	</div><!-- /screenshots section -->
-	
-	
 	
 	<!-- connected section -->
     <a id="connected-marker" class="marker"></a>
@@ -235,16 +218,9 @@
 					}
 					//-->
 					</script><noscript>Sorry, you need Javascript on to email me.</noscript>
-					
-					
-					
-					
 					</i>
-					
-					
 				</div>
             </div>
-      
 		</div>
 	</div><!-- /connected section -->
 	<!-- Scripts
@@ -256,7 +232,6 @@
     <script src="js/screen.js"></script>
 	<script src="js/headroom.min.js"></script>
 	<script src="js/user.js"></script>
-	
 	
 </body>
 </html>
