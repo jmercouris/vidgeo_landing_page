@@ -766,8 +766,12 @@ h1.intro-title span { font-weight: 400 }
 @media only screen and (max-width: 572px) { 
 	.slider-container
 	{
-
 		margin-top:150px;
+	}
+	.headroom--not-top img
+	{
+		width:100px;
+		height:auto;
 	}
 }
 
