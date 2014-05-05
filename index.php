@@ -108,14 +108,14 @@
                 	<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2a">
 						<i class="icon-effect icon-film"></i>
                      </div>
-                     		<h4>Record<span> it!</span></h4>
+                     		<h4><span>Record!</span></h4>
             				<p> Record your favorite memories, exciting videos, and capture your moments to a map.
        			</div>
                 <div class="one-third column services-column">
                 	<div class="icon-effect-wrap icon-effect-effect-2 icon-effect-effect-2a">
 						<i class="icon-effect icon-group"></i>
                      </div>
-                     		<h4>Share<span> it!</span></h4>
+                     		<h4><span>Share!</span></h4>
             				<p> Share with your friends & family!
        			</div>
                 <div class="one-third column services-column">
